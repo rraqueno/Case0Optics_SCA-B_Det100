@@ -1,0 +1,35 @@
+ENVI
+description = {
+  ENVI File, Created [Tue Jul 08 19:36:40 2014]}
+samples = 32
+lines   = 19
+bands   = 1
+header offset = 0
+file type = ENVI Spectral Library
+data type = 5
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+wavelength units = Unknown
+band names = {
+ Case0Optics_SCA-B_Det100}
+spectra names = {
+ Bias=-0.41294909; SCA:B; Detector=100; Lat=29.693315; Lon=-115.68342, 
+ Bias=-0.40884495; SCA:B; Detector=100; Lat=29.670999; Lon=-115.68943, 
+ Bias=-0.40287066; SCA:B; Detector=100; Lat=29.647823; Lon=-115.69566, 
+ Bias=-0.36477327; SCA:B; Detector=100; Lat=29.624652; Lon=-115.70189, 
+ Bias=-0.38485861; SCA:B; Detector=100; Lat=29.598901; Lon=-115.70881, 
+ Bias=-0.39294100; SCA:B; Detector=100; Lat=29.610917; Lon=-115.70558, 
+ Bias=-0.35622168; SCA:B; Detector=100; Lat=29.577441; Lon=-115.71457, 
+ Bias=-0.37302065; SCA:B; Detector=100; Lat=29.554270; Lon=-115.72079, 
+ Bias=-0.37956810; SCA:B; Detector=100; Lat=29.531096; Lon=-115.72701, 
+ Bias=-0.34662390; SCA:B; Detector=100; Lat=29.501906; Lon=-115.73483, 
+ Bias=-0.35130310; SCA:B; Detector=100; Lat=29.513925; Lon=-115.73161, 
+ Bias=-0.36179733; SCA:B; Detector=100; Lat=29.484738; Lon=-115.73943, 
+ Bias=-0.36562109; SCA:B; Detector=100; Lat=29.460697; Lon=-115.74587, 
+ Bias=-0.35632610; SCA:B; Detector=100; Lat=29.437518; Lon=-115.75209, 
+ Bias=-0.31909609; SCA:B; Detector=100; Lat=29.416912; Lon=-115.75760, 
+ Bias=-0.34902620; SCA:B; Detector=100; Lat=29.404892; Lon=-115.76082, 
+ Bias=-0.33401203; SCA:B; Detector=100; Lat=29.391158; Lon=-115.76450, 
+ Bias=-0.33353806; SCA:B; Detector=100; Lat=29.367120; Lon=-115.77093, 
+ Bias=-0.33244467; SCA:B; Detector=100; Lat=29.351666; Lon=-115.77506}

@@ -1,0 +1,36 @@
+ENVI
+description = {
+  ENVI File, Created [Thu Oct 02 10:08:11 2014]}
+samples = 205
+lines   = 205
+bands   = 23
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+map info = {GOES_DOY279_GVNP_SHORE, 1.0000, 1.0000, -702310.0971, 638310.1124, 2.5718000000e+003, 2.5718000000e+003, WGS-84, units=Meters}
+coordinate system string = {PROJCS["GOES_DOY279_GVNP_SHORE",GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Vertical_Near_Side_Perspective"],PARAMETER["False_Easting",0.0],PARAMETER["False_Northing",0.0],PARAMETER["Longitude_Of_Center",-116.23643752],PARAMETER["Latitude_Of_Center",30.91217192],PARAMETER["Height",705000.0],UNIT["Meter",1.0]]}
+wavelength units = Unknown
+band names = {
+ Vector Hits, Sum Weights, Sum^2 Weights, Ghost Weights, 
+ Bias=-0.41294909; SCA:B; Detector=100; Lat=29.693315; Lon=-115.68342, 
+ Bias=-0.40884495; SCA:B; Detector=100; Lat=29.670999; Lon=-115.68943, 
+ Bias=-0.40287066; SCA:B; Detector=100; Lat=29.647823; Lon=-115.69566, 
+ Bias=-0.36477327; SCA:B; Detector=100; Lat=29.624652; Lon=-115.70189, 
+ Bias=-0.38485861; SCA:B; Detector=100; Lat=29.598901; Lon=-115.70881, 
+ Bias=-0.39294100; SCA:B; Detector=100; Lat=29.610917; Lon=-115.70558, 
+ Bias=-0.35622168; SCA:B; Detector=100; Lat=29.577441; Lon=-115.71457, 
+ Bias=-0.37302065; SCA:B; Detector=100; Lat=29.554270; Lon=-115.72079, 
+ Bias=-0.37956810; SCA:B; Detector=100; Lat=29.531096; Lon=-115.72701, 
+ Bias=-0.34662390; SCA:B; Detector=100; Lat=29.501906; Lon=-115.73483, 
+ Bias=-0.35130310; SCA:B; Detector=100; Lat=29.513925; Lon=-115.73161, 
+ Bias=-0.36179733; SCA:B; Detector=100; Lat=29.484738; Lon=-115.73943, 
+ Bias=-0.36562109; SCA:B; Detector=100; Lat=29.460697; Lon=-115.74587, 
+ Bias=-0.35632610; SCA:B; Detector=100; Lat=29.437518; Lon=-115.75209, 
+ Bias=-0.31909609; SCA:B; Detector=100; Lat=29.416912; Lon=-115.75760, 
+ Bias=-0.34902620; SCA:B; Detector=100; Lat=29.404892; Lon=-115.76082, 
+ Bias=-0.33401203; SCA:B; Detector=100; Lat=29.391158; Lon=-115.76450, 
+ Bias=-0.33353806; SCA:B; Detector=100; Lat=29.367120; Lon=-115.77093, 
+ Bias=-0.33244467; SCA:B; Detector=100; Lat=29.351666; Lon=-115.77506}
